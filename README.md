@@ -1,2 +1,2 @@
 # RecessionPrediction
-R Project For Forecasting Master Thesis
+R Project For Forecasting US Recession
